@@ -1,0 +1,63 @@
+1. Potrebbero chiederti di spiegare il funzionamento interno di Python, come viene gestita la memoria, la differenza tra mutabili e immutabili, 
+gestione degli oggetti, e il Garbage Collection.
+
+2. Aspettati domande su come Python implementa caratteristiche come decoratori, generatori, metaclassi, e gestione delle eccezioni.
+
+3. Dimostra come analizzi dati da database pubblici, come datasets da Kaggle o database pubblici governativi, per estrarre insight. Potresti usare Pandas e NumPy.
+
+
+4. Mostra di avere una solida esperienza nel TDD, e preparati a parlare di come pianifichi i test per convalidare il codice, usando framework come pytest o unittest.
+5. Se hai esperienza con Django o Flask, preparati a descrivere progetti che hai fatto usando questi framework.
+6. Conoscenza delle REST API e di come interfacciarsi con i database è spesso richiesta. Rivedi concetti come ORM, autenticazione, e autorizzazione.
+7. Ripassa il concetto di tipi mutabili e immutabili (es. liste e dizionari vs tuple e stringhe) e come questi influenzano la gestione della memoria.
+
+8. Capisci bene come funzionano i generatori (yield) e quando sono utili per l'efficienza in operazioni con grandi quantità di dati.
+
+9. Rivedi la gestione di context manager (with) e decoratori.
+
+10. Sii pronto a parlare di memory management in Python, comprese le tecniche di ottimizzazione per evitare problemi di performance.
+Esempio di domanda:
+
+"Come funziona il Garbage Collector in Python e quando viene invocato?"
+"Qual è la differenza tra deep copy e shallow copy?"
+
+
+
+11. Potrebbero chiederti di parlare di come assegni e gestisci i task in un progetto, specialmente in un contesto di team. 
+12. Potresti essere valutato sulla tua capacità di suddividere un progetto in parti più piccole e assegnare le responsabilità in modo efficace.
+
+Preparazione:
+
+Fai riferimento a progetti passati in cui hai lavorato in team o dove hai gestito task specifici, spiegando come hai distribuito e monitorato il lavoro.
+Descrivi strumenti che hai utilizzato per la gestione del lavoro (es. Jira, Trello, GitLab o Asana) e come hai monitorato il progresso dei task.
+Esempio di scenario:
+
+"Come pianificheresti il lavoro per un team di 4 persone per sviluppare una nuova funzionalità su un sistema backend?"
+
+
+Sarà richiesto di completare o ottimizzare del codice già scritto. Potrebbe esserti chiesto di migliorare la performance, correggere bug, o rendere il codice più leggibile.
+Preparazione:
+
+Fai pratica con problemi che riguardano la refactoring del codice, l'ottimizzazione delle prestazioni e la pulizia del codice. Presta particolare attenzione a rendere il codice leggibile e manutenibile.
+
+
+13. Studia i design pattern più comuni (come il Singleton, Factory, e Observer) e quando applicarli.
+Esempio di domanda:
+
+14. Potrebbero darti un pezzo di codice mal ottimizzato o difficile da mantenere e chiederti di renderlo più efficiente e leggibile. Ad esempio, eliminare ridondanze, migliorare l'uso della memoria o gestire meglio gli errori.
+
+
+
+15. Simulazione del colloquio: Pratica risolvendo problemi su piattaforme di coding mentre spieghi il tuo pensiero in inglese.
+16. Creazione di test cases: Preparati a scrivere test cases per validare il codice che crei, mostrando la tua attenzione alla qualità del software.
+17. Condivisione di esperienze passate: Sii pronto a descrivere situazioni in cui hai gestito task, collaborato in team e risolto problemi complessi, sempre in modo conciso e chiaro.
+
+
+18. Problem-solving e algoritmi: Potrebbero chiederti di risolvere un problema come "Scrivi un algoritmo che trovi il percorso più breve in un grafo" oppure "Come implementeresti una cache LRU?"
+19. Design pattern: Sii pronto a parlare di design pattern che hai utilizzato, come Singleton, Factory, e Observer.
+20. Esperienza con AI: Potrebbero chiederti di descrivere un progetto AI, come hai costruito, allenato e ottimizzato il modello, e come hai gestito i dati.
+21. Test Cases: "Come progetteresti dei test per questa funzione?" oppure "Come validi che il tuo modello AI stia funzionando come previsto?"
+
+22. Simulazione del colloquio: Prova a farti intervistare da un collega o utilizza piattaforme di simulazione per esercitarti.
+23. Portfolio: Se hai progetti su GitHub, assicurati che siano aggiornati e ben documentati.
+24. Inglese: Se hai bisogno di allenamento sull'inglese parlato, potresti usare applicazioni come Grammarly o fare pratica con amici madrelingua.

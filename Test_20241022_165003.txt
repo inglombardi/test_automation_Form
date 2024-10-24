@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+@Main Author of this test: Nicola Lombardi - HW Baseband - Telit Cinterion: Oscilloscope main author, Other Source Meter functionalities
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+@TestPlan: No Test Plan
+@TestName: Simple test
+@TestCase: Dummy version 
+@Purpose: Development of a Software emulating a Contact Insertion in a Back Storage System
+@DateCreated: 29-05-2024
+@Patterns: Strategy, Single Responsibility Principle, State
+--------------------------------------------------------------------------------------------------------------------------------------------------------------

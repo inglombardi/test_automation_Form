@@ -1,0 +1,9 @@
+39348@LAPTOP-C4BDV0CD MINGW64 ~
+$ cd /c/Users/39348/PycharmProjects/AAA_Tool_development_workspace/Sr_Python_Developer_training
+
+39348@LAPTOP-C4BDV0CD MINGW64 ~/PycharmProjects/AAA_Tool_development_workspace/Sr_Python_Developer_training
+$ ls
+Questions_in_which_be_prepared.txt  Test_20241022_165003.txt  __pycache__/  coordinator.png  main.py  support_functions.py  test_system.py
+
+39348@LAPTOP-C4BDV0CD MINGW64 ~/PycharmProjects/AAA_Tool_development_workspace/Sr_Python_Developer_training
+$
